@@ -1,0 +1,25 @@
+1) Cvičení skripta 4. ABC toky
+	Zadání: Nalezněte divergenci a rotaci pole daného předpisem
+	V =( Acosy + Bsinz , Bcos z + Csinx , Ccosx + Asiny)
+
+2) Cvičení skripta Vlnění 14. Ladička
+	Zadání: Zdroj zvuku se pohybuje na vozíku rychlostí v = 25 cm s−1 směrem ke stěně.
+	Na opačné straně slyší pozorovatel rázy na frekvenci fR = 3 Hz. Jaká byla frekvence
+	zdroje zvuku, jestliže je rychlost zvuku cs = 340 m/s? 
+
+3) Jak se změní hmotnost 1 kg vody když ji ohřejeme o 100 °C
+
+4) Určete rovnici vlny, pro vámi zvolenou veličinu
+	L = 40 dB
+	I0 = 10^-12 W/m^-2
+	p = 10^-5 Pa - hodnotou si nejsem jistý
+	f = 400 Hz
+
+5) Jakou rychlostí se vzájemně pohybují dvě částici letící rychlostí 0,5c proti sobě ?
+(správně asi 0,8c - https://physics.stackexchange.com/questions/113818/what-is-the-relative-speed-of-two-near-light-speed-particles-headed-towards-each)
+
+6) Elektron urychlíme napětím 10^7 V, Hybnost = ???, Celková energie = 1,35 . 10^-17
+	- Hybnost a celkovou energii si nepamatuji
+	a) spočtěte rychlost relativisticky
+	b) spočítejte rychlost nerelativisticky
+	c) spočítejte klidovou hmotnost elektronu
